@@ -1,5 +1,6 @@
 # splusapp
 🇹🇷 Bu uygulama sürümü bir testtir, bu nedenle programı kullanırsanız, bazı sorunlarla karşılaşabilirsiniz. yeni sürüm yakında gelecek.
+
 🇬🇧 this app version a test because of that, if you use the program, may be see some problems. new version will be coming soon.
 
 🇹🇷
@@ -69,23 +70,9 @@ iOS simülatörde veya gerçek cihazda çalıştırın.
 
 Giriş bilgilerinden birini kullanın:
 
-Rol
+user123 - 1234
 
-Kullanıcı Adı
-
-Şifre
-
-Kullanıcı
-
-user123
-
-password123
-
-Admin
-
-admin
-
-admin123
+admin123 - admin
 
 📌 Notlar
 
@@ -160,23 +147,8 @@ Run it on a simulator or physical device.
 
 Use one of the following credentials:
 
-Role
-
-Username
-
-Password
-
-User
-
-user123
-
-password123
-
-Admin
-
-admin
-
-admin123
+user123 - 1234
+admin123 - admin
 
 📌 Notes
 
