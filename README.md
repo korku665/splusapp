@@ -1,5 +1,5 @@
 # splusapp
-🇹🇷 Bu uygulama sürümü bir testtir, bu nedenle programı kullanırsanız, bazı sorunlarla karşılaşabilirsiniz. yeni sürüm yakında gelecek.
+🇹🇷 Bu uygulama sürümü bir testtir, bu nedenle programı kullanırsanız bazı sorunlarla karşılaşabilirsiniz. yeni sürüm yakında gelecek.
 
 🇬🇧 this app version a test because of that, if you use the program, may be see some problems. new version will be coming soon.
 
